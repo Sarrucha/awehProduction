@@ -27,7 +27,7 @@ This cloud-based solution was developed for Aweh Productions to verify vaccinati
 
 ## 📺 Demonstration Video
 You can view a walkthrough of the working system here:  
-🔗 [Aweh Productions Function Verification System - Demo](https://drive.google.com/file/d/12O3r2gcEKvz-bxKRgu6mvFWBZQz5vSd4/view?usp=drive_link)
+🔗 [Aweh Productions Function Verification System - Demo](https://youtu.be/57851H4v6w0)
 
 > ⚠️ **Disclaimer:** I no longer have access to the Azure portal where the application was deployed. However, the video above demonstrates the final working version of the system in action.
 
